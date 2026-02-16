@@ -47,8 +47,8 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=KiranTamboli&show_icons=true&theme=dracula" height="150"/>
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=KiranTamboli&layout=compact&theme=dracula" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=KiranTamboli&show_icons=true&theme=dracula&cache_seconds=86400" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KiranTamboli&layout=compact&theme=dracula&cache_seconds=86400" height="150"/>
 </div>
 
 ###
