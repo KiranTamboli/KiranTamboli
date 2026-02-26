@@ -14,6 +14,17 @@
 
 ###
 
+<h2 align="left">🚀 Current Projects</h2>
+
+###
+
+<p align="left">
+- 🛰️ <b>Crop Stress Monitoring:</b> Building a system to deliver satellite-based stress images (using metrics like $V_d$ and $E$) to farmers via WhatsApp Business API.<br>
+- ⛳ <b>Golf Course Management:</b> Developing a specialized UI/UX for course management and mapping applications.
+</p>
+
+###
+
 <h2 align="left">I code with</h2>
 
 ###
@@ -32,8 +43,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" alt="tensorflow logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40" alt="linkedin logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
   <img width="12" />
@@ -54,6 +63,15 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/KiranTamboli/KiranTamboli/output/snake.svg" alt="Snake animation" />
+<h2 align="left">🔗 Connect with me</h2>
 
 ###
+
+<div align="left">
+  <a href="https://linkedin.com/in/kirantamboli252003" target="blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Kiran's LinkedIn" />
+  </a>
+  <a href="mailto:kirantamboli252003@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Kiran" />
+  </a>
+</div>
