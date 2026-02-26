@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">- 🔭 I’m currently working on Javascript and FastAPI.<br>- 🌱 I’m currently learning GenAI and System Design.<br>- 📫 How to reach me: kirantamboli252003@gmail.com</p>
+<p align="left">-  telescope I’m currently working on Javascript and FastAPI.<br>- 🌱 I’m currently learning GenAI and System Design.<br>- 📫 How to reach me: kirantamboli252003@gmail.com</p>
 
 ###
 
@@ -63,12 +63,16 @@
 
 ###
 
+<h2 align="left">⚡ Recent Activity</h2>
+
+###
+
 <h2 align="left">🔗 Connect with me</h2>
 
 ###
 
 <div align="left">
-  <a href="[https://www.linkedin.com/in/kirantamboli/" target="blank">
+  <a href="https://www.linkedin.com/in/kirantamboli/" target="blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Kiran's LinkedIn" />
   </a>
   <a href="mailto:kirantamboli252003@gmail.com">
